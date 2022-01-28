@@ -1,26 +1,26 @@
 
 [{
   "id":1,
-  "FirstName": "Jeanelle",
-  "LastName": “Penddereth”,
+  "first_name": "Jeanelle",
+  "last_name": "Penddreth",
   "email": "jpenddereth0@census.gov",
-  "gender" : "Female",
+  "gender" : "Female"
   },{
   "id":2,
-  "FirstName": "Giavani",
-  "LastName": “Frediani”,
+  "first_name": "Giavani",
+  "last_name": "Frediani",
   "email": "gfrediani1Asenate.com",
-  "gender" : "Male",
+  "gender" : "Male"
   },{
   "id":3,
-  "FirstName": "Noell",
-  "LastName": “Bea”,
+  "first_name": "Noell",
+  "last_name": "Bea",
   "email": "nbea2imageshack.us",
-  "gender" : "Female",
+  "gender" : "Female"
   },{
   "id":4,
-  "FirstName": "Willard",
-  "LastName": “Valek”,
+  "first_name": "Willard",
+  "last_name": "Valek",
   "email": "wvalek3@vk.com",
-  "gender" : "Male",
+  "gender" : "Male"
   }]
