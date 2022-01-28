@@ -1,0 +1,24 @@
+<div class="container mt-5">
+  <h2>Angular Display Data from Json File</h2>
+  
+  <table class="table table-striped">
+    <thread>
+      <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>LastName</th>
+        <th>Email</th>
+        <th>Gender</th>
+      </tr>
+    </thread>
+    <tbody>
+      <tr *ngFor="let user of Users">
+        <td>{{user.id}}</td>
+        <td>{{user.Name}}</td>
+        <td>{{user.LastName}}</td>
+        <td>{{user.Email}}</td>
+        <td>{{user.Gender}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
